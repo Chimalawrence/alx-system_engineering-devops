@@ -1,1 +1,3 @@
-Shell Basics Readme
+#!/bin/bash
+Shell task readme.md
+
